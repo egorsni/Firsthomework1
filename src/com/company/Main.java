@@ -8,6 +8,7 @@ public class Main {
 	int a,b,x,i,d;
 	b = 0;
 	d = 0;
+	int y = 0;
         Scanner  in = new Scanner(System.in);
         a = in.nextInt();
         x=a;
